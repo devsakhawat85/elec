@@ -6,3 +6,5 @@ coverage/
 *.log
 .env*
 !.env.example
+.aistudio/
+peg_scraped_data.json
